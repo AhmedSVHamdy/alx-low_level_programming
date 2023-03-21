@@ -1,6 +1,5 @@
 #include "main.h"
 /**
- *
  * main - print _putchar
  * is wirtten by mbah
  * Retrun: 0
